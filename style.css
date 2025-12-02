@@ -1,0 +1,28 @@
+html {
+    background-image: url('images/life.png');
+}
+
+h1 {
+    font-size: 150px;
+    text-align: center;
+    text-shadow: black 4px 4px 4px;
+    color: rgb(255, 255, 255);
+    text-decoration: wavy underline;
+}
+
+h2 {
+    font-size: 100px;
+}
+
+#links {
+    text-align: center;
+    font-size: 50px;
+    text-shadow: white 2px 2px 2px;
+    border: solid rgb(255, 255, 255) 2px;
+}
+
+.link {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+}
